@@ -1,0 +1,2 @@
+# myGit
+sample repository
